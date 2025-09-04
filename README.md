@@ -5,7 +5,7 @@ Jag heter Abdulkadir och är en engagerad student med fokus på back-end utveckl
 
 Vad jag vill lära mig Under utbildningen hoppas jag få djupare förståelse för:
 
--C# och objektorienterad programmering
+- C# och objektorienterad programmering
 - Hur man bygger och strukturerar back-end system
 - Databashantering och API-integration
 - Molntjänster som Azure och hur man distribuerar appar i molnet
